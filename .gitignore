@@ -1,0 +1,17 @@
+*.bnddir
+*.cllebndpgm
+*.cllemod
+*.cnxmod
+*.cnxpgm
+*.entrymod
+*.emtrysrv
+*.entrysrv
+*.pgm
+*.rpglemod
+*.rpglepgm
+*.sqlobj
+*.sqlrpgmod
+*.srvpgm
+*.lvl2mod
+
+
